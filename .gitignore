@@ -77,4 +77,7 @@ hs_err_pid*
 *.xml
 !pom.xml
 
+# dont put maven target under version control
+target
+
 
